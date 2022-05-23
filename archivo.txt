@@ -1,0 +1,17 @@
+chanchito feliz
+
+Schurman
+	===Configuracion inicial
+	git config --global user.name "Nombre"
+	git config --global user.mail correo
+	git config --global core.editor ""//
+	git config --global -e
+	git config --global core.autocrlf true
+	git config -h 		- lista de comandos
+
+	===Creacion de carpetas de trabajo
+	mkdir nombreCarpeta
+	 
+	ls -a			- mostrar directorios ocultos
+
+	rm nomrbearchivo.** = eliminar archivo
